@@ -1,1 +1,38 @@
+body {
+ font-family: 'Mulish',
+  sans-serif;
+ margin: 0;
+ padding: 0;
+ background-color: #fcc88a;
+}
 
+h1 {
+ text-align: center;
+ color: #a13939;
+}
+
+/*** MAIN CONTAINER **/
+
+.main-content {
+ width: 70%;
+ height: auto;
+ position: relative;
+ left: 15%;
+ padding: 40px 50px;
+}
+
+.button {
+ width: 150px;
+ height: 150px;
+ font-size: 34px;
+ font-weight: bolder;
+ margin: 20px;
+ background-color: #c2c57f;
+ color:#e75151;
+ 
+}
+
+.button:nth-child(0) {
+color: white; 
+
+}
