@@ -21,18 +21,13 @@ h1 {
  padding: 40px 50px;
 }
 
-.button {
+.letter {
  width: 150px;
  height: 150px;
  font-size: 34px;
  font-weight: bolder;
  margin: 20px;
  background-color: #c2c57f;
- color:#e75151;
- 
-}
-
-.button:nth-child(0) {
-color: white; 
+ color: #e75151;
 
 }
