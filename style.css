@@ -14,16 +14,15 @@ h1 {
 /*** MAIN CONTAINER **/
 
 .main-content {
- width: 70%;
+ width: 89%;
  height: auto;
- position: relative;
- left: 15%;
  padding: 40px 50px;
+ margin: 0 50px 0 50px;
 }
 
 .letter {
- width: 150px;
- height: 150px;
+ width: 90px;
+ height: 90px;
  font-size: 34px;
  font-weight: bolder;
  margin: 20px;
