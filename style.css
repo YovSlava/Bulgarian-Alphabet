@@ -36,7 +36,7 @@ h1 {
 .children {
  display: inline;
  position: relative;
- top: 20px;
+ top: 2px;
  left:158px;
  
 
@@ -45,7 +45,7 @@ h1 {
 .girl {
  display: inline;
  position: relative;
- top: 20px;
+ top: 2px;
  left:555px;
 }
 
@@ -53,8 +53,15 @@ h1 {
 
 .footer{ 
 width: 30%;
-position: sticky;
+display: grid;
+grid-template-columns: 100%;
+margin: auto;
+text-align: center;
 }
+
+
+
+
 
 /****/
 
@@ -64,12 +71,7 @@ position: sticky;
   display: none;
  }
 .children {
- display: block;
- position: fixed;
- top: 65%;
- left: 800px;
-
-
+display: none;
 }
 }
 
